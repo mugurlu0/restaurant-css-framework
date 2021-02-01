@@ -4,6 +4,9 @@ html,body {
     width: 100vw;
     overflow-x: hidden;
   }
+  body{
+    background-color: rgb(230, 228, 132);
+  }
   h1{
     font-family: 'Hachi Maru Pop', cursive;
     font-size: 3.5rem;
