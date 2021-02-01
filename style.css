@@ -6,4 +6,21 @@ html,body {
   }
   h1{
     font-family: 'Hachi Maru Pop', cursive;
+    font-size: 3.5rem;
   }
+/* 
+@media only screen and (min-width: 768px){
+  .map-responsive {
+    
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+    }
+    
+    .map-responsive iframe {
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+    }} */
