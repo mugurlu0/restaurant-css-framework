@@ -59,7 +59,7 @@ And these are the Mobile display mockups
 
 ## Deployment
 
-This page can be viewed via the this [link]() on  GitHub Pages.
+This page can be viewed via the this [link](https://mugurlu0.github.io/restaurant-css-framework/) on  GitHub Pages.
 
 ## Built With
 
