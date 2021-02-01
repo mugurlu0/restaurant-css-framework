@@ -1,4 +1,4 @@
-# Project Title
+# Restaurant-css-framework
 
 This project aims to become even more proficient in positioning items with Bootstrap.
 
@@ -6,75 +6,45 @@ This project aims to become even more proficient in positioning items with Boots
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites
+## Mockups
 
-What things you need to install the software and how to install them
+These are the designs I previously intended for my website on a destop format
 
+![Welcome](/Mockup/Desktop index.png)
+![Menu](/Mockup/Desktop menu.png)
+![Restaurants](/Mockup/Desktop restaurant.png)
+![Gallery](/Mockup/Desktop pictures.png)
+![Contact](/Mockup/Desktop contact.png)
 
+And these are the Mobile display mockups
 
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
+![Welcome](/Mockup/Mobile index.png)
+![Menu](/Mockup/Mobile menu.png)
+![Restaurants](/Mockup/Mobile restaurant.png)
+![Gallery](/Mockup/Mobile pictures.png)
+![Contact](/Mockup/Mobile contact.png)
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+This page can be viewed via the this [link]() on  GitHub Pages.
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Visual Studio Code](https://code.visualstudio.com/) - Microsoft's free IDE
+* [Bootstrap](https://getbootstrap.com/) - Main framework used
+* [Adobe XD](https://www.adobe.com/be_fr/products/xd.html) - For sketching the mockups
+* [Adobe Photoshop](https://www.adobe.com/be_fr/products/photoshop.html) - To resize photos
+* [Canva](https://www.canva.com/fr_be/) - To create my logo for free
 
-## Contributing
+## Responsiveness
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+As Bootstrap is aimed to be "Mobile first", it helped me a lot in achieving this peculiarity for my website.
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+I followed the grid system set up by Bootstrap to get my page displayed accurately on the mobile devices as well as desktops etc.
 
 ## Authors
 
-* **Mehmet Ugurlu** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Mehmet Ugurlu** - *Initial work* - [mugurlu0](https://github.com/mugurlu0)
 
 
 ## License
@@ -83,6 +53,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* W3Schools, Bootstrap docs and many more helped me realizing this project.
+* I was inspired by the sobre McDonald website
+* I found the photos mainly on Unsplash and some other sources without royalties.
+
