@@ -22,7 +22,7 @@ These are the designs I previously intended for my website on a
 
 #### Restaurants
 
-![Restaurants](/Mockup/Desktop_Restaurant.png)
+![Restaurants](/Mockup/Desktop_Restaurants.png)
 
 #### Pictures
 
@@ -46,7 +46,7 @@ And these are the Mobile display mockups
 
 #### Restaurants
 
-![Restaurants](/Mockup/Mobile_Restaurant.png)
+![Restaurants](/Mockup/Mobile_Restaurants.png)
 
 #### Pictures
 
