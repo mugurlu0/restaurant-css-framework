@@ -34,11 +34,28 @@ These are the designs I previously intended for my website on a
 
 And these are the Mobile display mockups
 
+### Mobile format
+
+#### Welcome
+
 ![Welcome](/Mockup/Mobile_index.png)
+
+#### Menu
+
 ![Menu](/Mockup/Mobile_Menu.png)
+
+#### Restaurants
+
 ![Restaurants](/Mockup/Mobile_Restaurant.png)
-![Gallery](/Mockup/Mobile_Pictures.png)
+
+#### Pictures
+
+![Pictures](/Mockup/Mobile_Pictures.png)
+
+#### Contact
+
 ![Contact](/Mockup/Mobile_Contact.png)
+
 
 ## Deployment
 
