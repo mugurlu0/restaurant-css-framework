@@ -18,27 +18,27 @@ These are the designs I previously intended for my website on a
 
 #### Menu
 
-![Menu](/Mockup/Desktop_menu.png)
+![Menu](/Mockup/Desktop_Menu.png)
 
 #### Restaurants
 
-![Restaurants](/Mockup/Desktop_restaurant.png)
+![Restaurants](/Mockup/Desktop_Restaurant.png)
 
 #### Pictures
 
-![Pictures](/Mockup/Desktop_pictures.png)
+![Pictures](/Mockup/Desktop_Pictures.png)
 
 #### Contact
 
-![Contact](/Mockup/Desktop_contact.png)
+![Contact](/Mockup/Desktop_Contact.png)
 
 And these are the Mobile display mockups
 
 ![Welcome](/Mockup/Mobile_index.png)
-![Menu](/Mockup/Mobile_menu.png)
-![Restaurants](/Mockup/Mobile_restaurant.png)
-![Gallery](/Mockup/Mobile_pictures.png)
-![Contact](/Mockup/Mobile_contact.png)
+![Menu](/Mockup/Mobile_Menu.png)
+![Restaurants](/Mockup/Mobile_Restaurant.png)
+![Gallery](/Mockup/Mobile_Pictures.png)
+![Contact](/Mockup/Mobile_Contact.png)
 
 ## Deployment
 
