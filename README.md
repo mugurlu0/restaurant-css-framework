@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Mockups
 
-These are the designs I previously intended for my website on a 
+These are the designs I previously intended for my website on a:
 
 ### Desktop format
 
@@ -78,7 +78,6 @@ I followed the grid system set up by Bootstrap to get my page displayed accurate
 
 * **Mehmet Ugurlu** - *Initial work* - [mugurlu0](https://github.com/mugurlu0)
 
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
@@ -88,4 +87,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * W3Schools, Bootstrap docs and many more helped me realizing this project.
 * I was inspired by the sobre McDonald website
 * I found the photos mainly on Unsplash and some other sources without royalties.
-
