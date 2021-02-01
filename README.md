@@ -56,7 +56,6 @@ And these are the Mobile display mockups
 
 ![Contact](/Mockup/Mobile_Contact.png)
 
-
 ## Deployment
 
 This page can be viewed via the this [link](https://mugurlu0.github.io/restaurant-css-framework/) on  GitHub Pages.
@@ -64,7 +63,7 @@ This page can be viewed via the this [link](https://mugurlu0.github.io/restauran
 ## Built With
 
 * [Visual Studio Code](https://code.visualstudio.com/) - Microsoft's free IDE
-* [Bootstrap](https://getbootstrap.com/) - Main framework used
+* [Bootstrap](https://getbootstrap.com/) - Main framework used (version 4.6)
 * [Adobe XD](https://www.adobe.com/be_fr/products/xd.html) - For sketching the mockups
 * [Adobe Photoshop](https://www.adobe.com/be_fr/products/photoshop.html) - To resize photos
 * [Canva](https://www.canva.com/fr_be/) - To create my logo for free
