@@ -10,19 +10,19 @@ These instructions will get you a copy of the project up and running on your loc
 
 These are the designs I previously intended for my website on a destop format
 
-![Welcome](/Mockup/Desktop index.png)
-![Menu](/Mockup/Desktop menu.png)
-![Restaurants](/Mockup/Desktop restaurant.png)
-![Gallery](/Mockup/Desktop pictures.png)
-![Contact](/Mockup/Desktop contact.png)
+![Welcome](/Mockup/Desktop_index.png)
+![Menu](/Mockup/Desktop_menu.png)
+![Restaurants](/Mockup/Desktop_restaurant.png)
+![Gallery](/Mockup/Desktop_pictures.png)
+![Contact](/Mockup/Desktop_contact.png)
 
 And these are the Mobile display mockups
 
-![Welcome](/Mockup/Mobile index.png)
-![Menu](/Mockup/Mobile menu.png)
-![Restaurants](/Mockup/Mobile restaurant.png)
-![Gallery](/Mockup/Mobile pictures.png)
-![Contact](/Mockup/Mobile contact.png)
+![Welcome](/Mockup/Mobile_index.png)
+![Menu](/Mockup/Mobile_menu.png)
+![Restaurants](/Mockup/Mobile_restaurant.png)
+![Gallery](/Mockup/Mobile_pictures.png)
+![Contact](/Mockup/Mobile_contact.png)
 
 ## Deployment
 
