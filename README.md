@@ -8,12 +8,28 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Mockups
 
-These are the designs I previously intended for my website on a destop format
+These are the designs I previously intended for my website on a 
+
+### Desktop format
+
+#### Welcome
 
 ![Welcome](/Mockup/Desktop_index.png)
+
+#### Menu
+
 ![Menu](/Mockup/Desktop_menu.png)
+
+#### Restaurants
+
 ![Restaurants](/Mockup/Desktop_restaurant.png)
-![Gallery](/Mockup/Desktop_pictures.png)
+
+#### Pictures
+
+![Pictures](/Mockup/Desktop_pictures.png)
+
+#### Contact
+
 ![Contact](/Mockup/Desktop_contact.png)
 
 And these are the Mobile display mockups
