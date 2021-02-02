@@ -83,4 +83,4 @@ I followed the grid system set up by Bootstrap to get my page displayed accurate
 * W3Schools, Bootstrap docs and many more helped me realizing this project.
 * I was inspired by the sobre McDonald website.
 * I found the photos mainly on Unsplash and some other sources without royalties.
-* I owe special thanks to my mother who let me use her own pictures usually shared on her [instagram](https://www.instagram.com/gonuldensunumlar1/) account.
+* I owe special thanks to my mother who kindly let me use her own pictures usually shared on her [instagram](https://www.instagram.com/gonuldensunumlar1/) account.
