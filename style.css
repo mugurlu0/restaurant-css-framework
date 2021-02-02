@@ -23,3 +23,9 @@ html,body {
   background-size: cover;
   
 }
+.bgcard{
+  background: radial-gradient(ellipse at center, #4e6268 0%, #238ACD 27%, #496575 100%);
+}
+.card-body {
+  background-color: rgb(197, 195, 82);
+}
