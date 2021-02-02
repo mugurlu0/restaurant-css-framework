@@ -1,31 +1,37 @@
-*{
+* {
   box-sizing: border-box;
 }
-html,body {
-    scroll-behavior: smooth;
-    height: 100vh;
-    width: 100vw;
-    overflow-x: hidden;
-  }
-  body{
-    background-color: #fcdbb3;
-  }
-  h1{
-    font-family: 'Hachi Maru Pop', cursive;
-    color: lightgrey;
-    
-    
-  }
 
-.bgimg{
+html,
+body {
+  scroll-behavior: smooth;
+  height: 100vh;
+  width: 100vw;
+  overflow-x: hidden;
+}
+
+body {
+  background-color: #fcdbb3;
+}
+
+h1 {
+  font-family: 'Hachi Maru Pop', cursive;
+  color: lightgrey;
+
+
+}
+
+.bgimg {
   background-image: url(assets/nonsap-visuals-G88j9KT5u4g-unsplash.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  
+
 }
-.bgcard{
+
+.bgcard {
   background: radial-gradient(ellipse at center, #4e6268 0%, #238ACD 27%, #496575 100%);
 }
+
 .card-body {
   background-color: rgb(197, 195, 82);
 }

@@ -2,6 +2,10 @@
 
 This project aims to become even more proficient in positioning items with Bootstrap.
 
+## Deployment
+
+This page can be viewed via the this [link](https://mugurlu0.github.io/restaurant-css-framework/) on  GitHub Pages.
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -55,10 +59,6 @@ And these are the Mobile display mockups
 #### Contact
 
 ![Contact](/Mockup/Mobile_Contact.png)
-
-## Deployment
-
-This page can be viewed via the this [link](https://mugurlu0.github.io/restaurant-css-framework/) on  GitHub Pages.
 
 ## Built With
 
