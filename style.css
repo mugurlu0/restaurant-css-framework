@@ -1,3 +1,6 @@
+*{
+  box-sizing: border-box;
+}
 html,body {
     scroll-behavior: smooth;
     height: 100vh;
@@ -5,25 +8,18 @@ html,body {
     overflow-x: hidden;
   }
   body{
-    background-color: #f7f4c9;
+    background-color: #fcdbb3;
   }
   h1{
     font-family: 'Hachi Maru Pop', cursive;
-    font-size: 3.5rem;
+    color: lightgrey;
+    
+    
   }
-/* 
-@media only screen and (min-width: 768px){
-  .map-responsive {
-    
-    padding-bottom:56.25%;
-    position:relative;
-    height:0;
-    }
-    
-    .map-responsive iframe {
-    left:0;
-    top:0;
-    height:100%;
-    width:100%;
-    position:absolute;
-    }} */
+
+.bgimg{
+  background-image: url(assets/nonsap-visuals-G88j9KT5u4g-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
